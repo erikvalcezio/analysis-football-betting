@@ -1,0 +1,8 @@
+1 - Qual é o tema da aplicação web referente ao projeto da disciplina?
+Análise para dicas de apostas de futebol
+
+2 - Quais são as principais funcionalidades desta aplicação web a ser desenvolvida?
+⦁	Cadastro;
+⦁	Planos (Básico e Prêmio);
+⦁	Consulta das principais ligas de futebol com dicas de apostas apartir dos resultados e campanha do time. (Primeiro momento apenas de times brasileiro no campeonato brasileiro);
+⦁	Controle com histórico de apostas gerenciado pelo usuário;
