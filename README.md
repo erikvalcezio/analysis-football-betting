@@ -1,4 +1,4 @@
-# roubank-app
+# analysis-football-betting - Tática em campo
 
 Este projeto tem como objetivo atender o projeto para UTFPR na materia Frameworks Web progressivamente de forma de estudos uma aplicação web para tomada de decições em apostas de futebol (ex: campeonato, tabela, ultimos jogos, notícias, cadastro), sendo que tem analise preditiva para as apostas da rodada. 
 
